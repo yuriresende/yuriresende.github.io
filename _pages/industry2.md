@@ -10,7 +10,7 @@ I am passioned about entrepreneurship and industry colaboration! Here are some c
 ## Entrepreneurship
 
 - [CashU](https://www.cashu.com.br)
-  - CashU is a fintech that is enabling credit to small businesses in B2B digital platform and e-commerce. 
+  - CashU is a fintech that enables credit to small businesses in B2B platforms and e-commerce. 
   - Position: chief data scientist
   - Investors: ABSeed, Bertha, Caravela and ScaleXopen
 
