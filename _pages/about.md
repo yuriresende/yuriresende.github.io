@@ -12,7 +12,7 @@ I am a PhD candidate in Decision, Risk and Operations at Columbia University, wh
 
 ## Upcoming Talks 
 
-- [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/)- Phoenix - October 23 (Upcoming)
-- [Empirical Workshop in Operations Management](https://oid.wharton.upenn.edu/department-information/seminars-conferences/workshop-for-empirical-research-in-operations-management/) - Wharton - October 23 (Upcoming)
-- [Young Researchers Workshop](https://www.orie.cornell.edu/orie-events/young-reseachers-workshop-2023) - Cornell - October 23 (Upcoming)
+- [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/)- Phoenix - October 23 
+- [Empirical Workshop in Operations Management](https://oid.wharton.upenn.edu/department-information/seminars-conferences/workshop-for-empirical-research-in-operations-management/) - Wharton - October 23 
+- [Young Researchers Workshop](https://www.orie.cornell.edu/orie-events/young-reseachers-workshop-2023) - Cornell - October 23 
 
