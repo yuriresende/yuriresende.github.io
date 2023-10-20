@@ -8,6 +8,13 @@ author_profile: true
 
 You can also find my articles on [my google scholar profile](https://scholar.google.com/citations?user=hr1PnUkAAAAJ&hl=en&oi=ao).
 
+## Working Papers
+
+-  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
+   - An earlier version that includes some of these results appeared at <em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
+   - __Second Place, RMP Jeff McGill Student Paper Award, 2023__
+
+-  [BooST: Boosting Smooth Trees for Partial Effect Estimation in Nonlinear Regressions](https://arxiv.org/pdf/1808.03698.pdf). Y. Fonseca, M. Medeiros, G. Vasconcelos and A. Veiga.
 
 ## Published or Forthcoming Journal Articles
 
@@ -24,13 +31,6 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 -  [Statistical Learning and Inverse Problems: A Functional Gradient Descent Approach](https://proceedings.neurips.cc/paper_files/paper/2022/file/3e8b1835833ef809059efa74b9df6805-Paper-Conference.pdf). Y. Fonseca and Y. Saporito. <em>Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</em>
   
 -  [Online Learning from Optimal Actions](https://proceedings.mlr.press/v134/besbes21a.html). O. Besbes, Y. Fonseca and I. Lobel. <em>COLT' 21, 34th Annual Conference on Learning Theory.</em> 
-
-## Working Papers
-
--  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
-   - An earlier version that includes some of these results will appear at <em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
-
--  [BooST: Boosting Smooth Trees for Partial Effect Estimation in Nonlinear Regressions](https://arxiv.org/pdf/1808.03698.pdf). Y. Fonseca, M. Medeiros, G. Vasconcelos and A. Veiga.
 
 ## Work in Progress
 
