@@ -8,14 +8,6 @@ author_profile: true
 
 You can also find my articles on [my google scholar profile](https://scholar.google.com/citations?user=hr1PnUkAAAAJ&hl=en&oi=ao).
 
-## Working Papers
-
--  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
-   - An earlier version that includes some of these results appeared at <em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
-   - __Second Place, RMP Jeff McGill Student Paper Award, 2023__
-
--  [BooST: Boosting Smooth Trees for Partial Effect Estimation in Nonlinear Regressions](https://arxiv.org/pdf/1808.03698.pdf). Y. Fonseca, M. Medeiros, G. Vasconcelos and A. Veiga.
-
 ## Published or Forthcoming Journal Articles
 
 -  [Contextual Inverse Optimization: Offline and Online Learning](https://arxiv.org/pdf/2106.14015.pdf). O. Besbes, Y. Fonseca and I. Lobel. <em>Operations Research</em> forthcoming.
@@ -23,6 +15,14 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 
 -  [ArCo: An R package to Estimate Artificial Counterfactuals](https://journal.r-project.org/archive/2018/RJ-2018-016/RJ-2018-016.pdf). Y. Fonseca, R. Masini, M. Medeiros, and G. Vasconcelos.<em>R. Journal (2018)</em>
     -  Package available in R: [link](https://cran.r-project.org/web/packages/ArCo/index.html)
+ 
+## Working Papers
+
+-  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
+   - An earlier version that includes some of these results appeared at <em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
+   - __Second Place, RMP Jeff McGill Student Paper Award, 2023__
+
+-  [BooST: Boosting Smooth Trees for Partial Effect Estimation in Nonlinear Regressions](https://arxiv.org/pdf/1808.03698.pdf). Y. Fonseca, M. Medeiros, G. Vasconcelos and A. Veiga.
 
 ## Refereed Conferences
 
