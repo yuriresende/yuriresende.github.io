@@ -10,12 +10,14 @@ I am passionate about entrepreneurship and industry collaboration. Here are some
 ## Enterpreneurship
 
 - [CashU](www.cashu.com.br)
-  - I am a co-founder of CashU, where I am the Chief Data Scientist. The company is a Brazilian Fintech that is revolutionizing credit for Small Businesses in LATAM. we use state-of-the-art machine learning methods to offer BNPL solutions for e-commerce and marketplaces B2B.
+  - I am a co-founder of CashU, where I am the Chief Data Scientist.
+  - The company is a Brazilian Fintech that is revolutionizing credit for Small Businesses in LATAM. we use state-of-the-art machine learning methods to offer BNPL solutions for e-commerce and marketplaces B2B.
   - Investors: ABSeed Ventures, Caravela Capital, Bertha Capital, and SCALEXOPEN.
 
 - [ProtMat Advanced Materials](www.protmat.com.br)
-  - I co-founded ProtMat during my Master's in Material Science. The company produces advanced biomaterials for the dental industry, focusing on the digital dentistry supply chain.
-  - The company received a seed round investment from FINEP, a federal institution in Brazil for innovation and research.
+  - I co-founded ProtMat during my Master's in Material Science.
+  - The company produces advanced biomaterials for the dental industry, focusing on the digital dentistry supply chain.
+  - Investor: FINEP, a federal institution in Brazil for innovation and research.
  
 ## Applied Projects
 
