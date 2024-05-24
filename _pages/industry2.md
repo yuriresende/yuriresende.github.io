@@ -5,7 +5,7 @@ permalink: /industry2/
 author_profile: true
 ---
 
-I am passionate about entrepreneurship and industry collaboration. Here are some projects that I have worked on.
+I am passionate about entrepreneurship and industry collaboration. 
 
 ## Enterpreneurship
 
