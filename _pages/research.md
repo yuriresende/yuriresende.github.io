@@ -18,6 +18,10 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
  
 ## Working Papers
 
+- [C-Learner: Constrained Optimization for Causal Inference and Semiparametric Statistics](https://arxiv.org/abs/2405.09493). T. Cai, Y. Fonseca, K. Hou and H. Namkoong.
+
+- [Nonparametric Instrumental Variable Regression through Stochastic Approximate Gradients](https://arxiv.org/abs/2402.05639). Y. Fonseca, C. Peixoto, Y. Saporito.
+
 -  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
    - An earlier version that includes some of these results appeared at <em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
    - __Second Place, RMP Jeff McGill Student Paper Award, 2023__
@@ -35,10 +39,6 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 ## Work in Progress
 
 - Machine Learning and Offline Contextual Optimization. O. Besbes, Y. Fonseca, and I. Lobel.
-
-- C-Learner: Constrained Learning for Causal Inference.  T. Cai, Y. Fonseca, K. Hou and H. Namkoong.
-
-- Functional Stochastic Gradient in Non-Parametric IV Estimation. Y. Fonseca, C. Lins, Y. Saporito.
   
 ## Prior Life
 
