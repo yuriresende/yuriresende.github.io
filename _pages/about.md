@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Decision, Risk and Operations at Columbia University, where I am fortunate to be advised by Professor Omar Besbes, Professor Ilan Lobel from NYU-Stern, and Professor Fanyin Zheng from Imperial College London. I am interested in online optimization, decision-making, and learning in complex environments such as online platforms and marketplaces. I love to chat about innovation, entrepreneurship, and explore how machine learning methods can be leveraged to tackle operational challenges.
+Hi, welcome to my academic website. I’m an Assistant Professor in the Operations and Technology Group at the UCL School of Management. My research focuses on improving decision-making in complex, data-rich environments such as digital platforms and marketplaces, using tools from online optimization, statistical learning, and decision theory. My work has appeared in Operations Research and been presented at NeurIPS, COLT, and ACM EC. I’m passionate about innovation, entrepreneurship, and applying research to real-world challenges.
 
-## Upcoming Talks 
+Before joining UCL, I earned a PhD in Decision, Risk & Operations at Columbia University, advised by Omar Besbes, Ilan Lobel, and Fanyin Zheng, and completed a postdoctoral position at Stanford University with Daniela Saban, also collaborating with Vahideh Manshadi from Yale.
 
-- [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) - MIT - November 10-11, 2023 (Poster)
-- [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/)- Phoenix - October 15 and 17, 2023 
-- [Empirical Workshop in Operations Management](https://oid.wharton.upenn.edu/department-information/seminars-conferences/workshop-for-empirical-research-in-operations-management/) - Wharton - October 13, 2023
-- [Young Researchers Workshop](https://www.orie.cornell.edu/orie-events/young-reseachers-workshop-2023) - Cornell - October 03, 2023
+Alongside my academic career, I co-founded CashU, a Brazilian fintech transforming B2B credit in supply chains, where I apply data science and optimization to improve access to finance for SMEs. I also hold a PhD in Materials Science and founded ProtMat, a digital dentistry company focused on advanced biomaterials.
 
