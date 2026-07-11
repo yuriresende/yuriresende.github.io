@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuri Resende Fonseca"
 title_separator          : "-"
 name                     : &name "Yuri Resende Fonseca"
-description              : &description "PhD candidate at Columbia University"
+description              : &description "Assistant Professor at UCL School of Management"
 url                      : https://yuriresende.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuriresende.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuri Resende Fonseca"
-  avatar           : "foto_editada.jpg"
+  avatar           : "foto_editada2.jpg"
   bio              : "PhD Candidate in Decision, Risk and Operations at Columbia University"
   location         : 
   employer         :
