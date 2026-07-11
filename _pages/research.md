@@ -34,9 +34,9 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 
 ## Refereed Conferences
 
-- [Procurement Design with Network Effects: A Case Study in Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6894798). Y. Fonseca, V. Manshadi, and D. Saban. <em>EC'23, Proceedings of the 2026 ACM Conference on Economics and Computation.</em>
+- [Procurement Design with Network Effects: A Case Study in Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6894798). Y. Fonseca, V. Manshadi, and D. Saban. <em>EC'26, Proceedings of the 2026 ACM Conference on Economics and Computation.</em>
 
-- [Nonparametric Instrumental Variable Regression Through Stochastic Approximate Gradients](https://proceedings.neurips.cc/paper_files/paper/2024/file/edfd99d02718585697fda9df97fcf53d-Paper-Conference.pdf). Y. Fonseca, C. Peixoto, and Y. Saporito. <em>Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS 2024)</em>
+- [Nonparametric Instrumental Variable Regression Through Stochastic Approximate Gradients](https://proceedings.neurips.cc/paper_files/paper/2024/file/edfd99d02718585697fda9df97fcf53d-Paper-Conference.pdf). Y. Fonseca, C. Peixoto, and Y. Saporito. <em>Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)</em>
 
 -  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel, and F. Zheng. <em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
 
