@@ -20,7 +20,8 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 
 - [Procurement Design with Network Effects: A Case Study in Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6894798). Y. Fonseca, V. Manshadi, and D. Saban. (submitted).
 
-- [When One Shines, All Glow: The Influence of Platform Badges]. O. Besbes, Y. Fonseca, Z. Lai, R. Mastronmonaco, and F. Zheng. (major revision <em>Management Science</em>)
+- When One Shines, All Glow: The Influence of Platform Badges. O. Besbes, Y. Fonseca, Z. Lai, R. Mastronmonaco, and F. Zheng. (major revision <em>Management Science</em>)
+    - Selected for presentation at 2026 MSOM Service Management SIG. 
 
 - [Constrained Learning for Causal Inference](https://arxiv.org/pdf/2405.09493?). T. Cai, Y. Fonseca, K. Hou, and H. Namkoong. (submitted).
 
