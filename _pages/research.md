@@ -48,7 +48,7 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 
 - Recovering Tacit Knowledge from Unstructured Expert Logs: A Contextual Inverse Optimization Framework. M. Bickel, Y. Fonseca, and T. Netland.
 
-- Nonparametric Contextual Inverse Optimization. Y. Fonseca, L. F. Marques, C. Peixoto, and Y. Saporito. 
+- Nonlinear Contextual Inverse Optimization. Y. Fonseca, L. F. Marques, C. Peixoto, and Y. Saporito. 
   
 ## Prior Life
 
