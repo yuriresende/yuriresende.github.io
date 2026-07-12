@@ -19,6 +19,7 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 ## Working Papers
 
 - [Procurement Design with Network Effects: A Case Study in Infrastructure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6894798). Y. Fonseca, V. Manshadi, and D. Saban. (submitted).
+    - An earlier version that includes some of these results appeared at EC’26, Proceedings of the 2026 ACM Conference on Economics and Computation.
 
 - When One Shines, All Glow: The Influence of Platform Badges. O. Besbes, Y. Fonseca, Z. Lai, R. Mastronmonaco, and F. Zheng. (major revision <em>Management Science</em>)
     - Selected for presentation at 2026 MSOM Service Management SIG. 
